@@ -1,0 +1,5 @@
+- [ ] Serverless and configs
+- [ ] How to facilitate an update
+- [ ] Go
+- [ ] Ts
+- [ ] Testing (writing tests)
