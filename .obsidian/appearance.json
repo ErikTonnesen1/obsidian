@@ -1,4 +1,9 @@
 {
-  "cssTheme": "Obsidian gruvbox",
-  "translucency": false
+  "cssTheme": "Wikipedia",
+  "translucency": false,
+  "textFontFamily": "Adelle Sans Devanagari",
+  "enabledCssSnippets": [
+    "text-styling"
+  ],
+  "theme": "obsidian"
 }

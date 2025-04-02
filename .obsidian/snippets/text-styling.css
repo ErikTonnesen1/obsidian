@@ -1,0 +1,24 @@
+/*/* Change color of italicized text */*/
+/*em {*/
+/*  color: #FF9800; /* Purple color for italicized text */ */
+/*  font-style: italic;*/
+/*}*/
+/**/
+/*/* Change color of bold text */*/
+/*strong {*/
+/*  color: #9370DB; /* Steel blue color for bold text */*/
+/*  font-weight: bold;*/
+/*}*/
+.cm-s-obsidian span.cm-inline-code {
+    color: #FF9800 !important;
+    font-size: var(--code-size);
+    background-color: var(--code-background);
+    vertical-align: baseline;
+    -webkit-box-decoration-break: clone;
+}/* Change color of bold text */
+
+.markdown-rendered strong,
+.cm-strong {
+  color: #4682B4 !important; /* Steel blue for bold */
+  font-weight: bold;
+}
