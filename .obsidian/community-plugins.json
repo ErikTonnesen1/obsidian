@@ -1,4 +1,7 @@
 [
   "calendar",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "code-styler",
+  "obsidian-underline"
 ]
